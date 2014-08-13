@@ -1,0 +1,1 @@
+copy /Y bin\release\mb_PauseOnLock.dll c:\bin\musicbee\plugins\.
